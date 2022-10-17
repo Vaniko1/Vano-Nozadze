@@ -14,9 +14,9 @@ fun main(){
 
     println(ptOne.length(ptOne.simetricalPoint()))
 
-    println(pointOne.addFract(pointTwo))g
+    println(pointOne.addFract(pointTwo))
 
-    println(pointOne.multiply(pointTwo))
+            println(pointOne.multiply(pointTwo))
 
 
 
