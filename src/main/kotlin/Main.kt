@@ -16,7 +16,7 @@ fun main(){
 
     println(pointOne.addFract(pointTwo))
 
-            println(pointOne.multiply(pointTwo))
+    println(pointOne.multiply(pointTwo))
 
 
 
